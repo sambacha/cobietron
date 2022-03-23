@@ -1,9 +1,9 @@
-## Examining the comovement between price and volume in liquidity pool returns
+### Examining the comovement between price and volume in liquidity pool returns
 
 
 One of AMM’s most important divergences from traditional exchange is that it divides its market participants into two distinct roles: liquidity providers and traders. In a nutshell, the former deposits equal value of any pair of assets into the liquidity pool and the latter trades one for the other based on what’s available in the pool. This creates interesting ramifications in terms of risk for the liquidity providers. In this post, we study the characteristics of the price dynamics in Uniswap under the usual assumption that the prices of the underlying asset pair follow a drift-diffusion process. Note that the analysis assumes zero liquidity pool growth (other than due to transaction fees) and zero risk-free rate as well.
 
-## Uniswap Explained
+#### Uniswap Explained
 
 Examine the liquidity pool composed of asset $A$ and $B$. For simplicity, let $a_t$ and $b_t$ denote the number of units of $A$ and $B$ available in the liquidity pool respectively. At any point in time, we have:
 
