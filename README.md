@@ -1,3 +1,91 @@
+# Flash Onsen
+ 
+ 
+## Abstract
+
+Catagorize all trading pools into 4 major types such that it simplifies modeling. 
+
+
+ 
+## Probabilistic thinking
+
+> source: [https://cobie.substack.com/p/probabilistic-thinking](https://cobie.substack.com/p/probabilistic-thinking)
+
+New entrants in the crypto community look to crypto “veterans” hoping for near-deterministic directional insight into these perplexing markets.
+
+So, in this post, I will show you how to see the future.
+
+**Seeing the future**
+
+Successful crypto veterans know that crypto trading is a probabilistic outcomes business. Probabilistic thinking is basically just trying to estimate the likelihood of a specific future outcome becoming reality.
+
+To my knowledge, seeing the future is currently impossible. Traders must instead predict the future by first seeing every possible future.
+
+[![Doctor Strange travelled forward to look at 14,000,605 possible futures of  the conflict with Thanos. If he spent just one hour in each alternate future,  he spent roughly 1600 years studying the](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17065169-5513-4e10-abbe-10abbe9fe54a_979x547.jpeg "Doctor Strange travelled forward to look at 14,000,605 possible futures of  the conflict with Thanos. If he spent just one hour in each alternate future,  he spent roughly 1600 years studying the")](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17065169-5513-4e10-abbe-10abbe9fe54a_979x547.jpeg)
+
+Oh, and none of this is investment advice. I’m not a professional and mostly am stumbling my way through the world the same way I was at age 13. Just documenting and sharing some thoughts and none of it is a science. I, like everyone else, am simply an aged baby walking blindfolded into a forest, startled by my own humanity.
+
+Anyway, to illustrate with reality rather than a Marvel movie reference, let’s go back in time. Here’s what the 1D ETHUSD chart looked like at daily close on May 19th.
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7e152c-209a-4bc0-924e-8d4214c57c9b_1150x710.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1e7e152c-209a-4bc0-924e-8d4214c57c9b_1150x710.png)
+
+When the market crashed in May, it took 8 days for Ethereum to go from around $4400 to below $1800.
+
+During the crash, you could consider four possible scenarios for the future. I tweeted about them as we broke down below $2000.
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa687147d-0393-418b-b622-071d315f5c20_1040x536.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa687147d-0393-418b-b622-071d315f5c20_1040x536.png)
+
+In case it helps, I have drawn some embarrassingly lo-fi versions of what the future charts might have looked like in each scenario.
+
+**1\. The market has experienced another 2017-style boom/bust cycle and the top is in. We can expect a classic crypto “complacency shoulder” pattern.**
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54785991-c41a-4129-8de6-3066865826f8_1864x668.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F54785991-c41a-4129-8de6-3066865826f8_1864x668.png)
+
+**2\. The market will cool off before experiencing a 2013-style double-bubble and be bullish again towards the end of the year.**
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42fe82bd-987c-4d36-ad13-3fbc8afc0fea_1784x668.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F42fe82bd-987c-4d36-ad13-3fbc8afc0fea_1784x668.png)
+
+**3\. The market will go down-only and experience an almost unprecedented level of rekt.**
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75f1ea9-6b7d-49d0-9fbd-03bde314a8c8_1786x668.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75f1ea9-6b7d-49d0-9fbd-03bde314a8c8_1786x668.png)
+
+**4\. The market will instantly recover and rocket to new highs very quickly.**
+
+[![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1550e305-2536-4574-b8b3-9730c8405eb0_1850x652.png)](https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1550e305-2536-4574-b8b3-9730c8405eb0_1850x652.png)
+
+
+There are of course slight variations of each idea above, as well as other potential scenarios that I didn’t bother considering because I thought they were too unlikely (eg. sideways forever).
+
+After accounting for all the possible things that could happen, good traders will evaluate how likely they believe each scenario to be. At the bottom of the crash, they could be weighted something like this:
+
+<pre>
+p(1) = 45%
+
+p(2) = 45%
+
+p(3) = 5%
+
+p(4) = 5%
+</pre>
+
+In effect, you believe scenario 1 and 2 are equally likely outcomes at 45% each and they are also the two most likely possible outcomes, but you are also considering that 3 and 4 may be possible too.
+
+**If you evaluate the best possible trade for each scenario above, they are pretty simple:**
+
+<pre>
+1 — buy: buy the lows and sell the classic complacency shoulder pattern
+
+2 — buy: buy the lows and hold for new highs
+
+3 — sell: it’s going to actual zero
+
+4 — buy: new highs by end of day, lfg
+</pre>
+
+
+## Notes on AMM Structure
+
+
 ### Examining the comovement between price and volume in liquidity pool returns
 
 
